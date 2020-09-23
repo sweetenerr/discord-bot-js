@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 const { MessageEmbed } = require("discord.js");
 
-const token = '';
+const token = 'ENTER YOUR OWN TOKEN';
 
 const PREFIX = '!';
 
